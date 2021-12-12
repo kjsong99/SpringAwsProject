@@ -55,6 +55,9 @@ gradle-app.setting
 # *.iml
 # *.ipr
 
+.gradle
+.idea
+
 # CMake
 cmake-build-*/
 
